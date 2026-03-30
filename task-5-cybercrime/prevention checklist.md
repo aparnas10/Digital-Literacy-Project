@@ -8,3 +8,5 @@
 - Avoid responding to calls claiming to be from bank support.  
 - Use official apps only (Google Pay, PhonePe, Paytm, etc.).  
 - Enable app lock and security features on your phone.
+
+To report any issues, contact: National Cyber Crime Portal (cybercrime.gov.in) or Helpline no. 1930. 
